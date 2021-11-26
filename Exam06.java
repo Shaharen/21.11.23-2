@@ -4,7 +4,7 @@ public class Exam06 {
 	public static void main(String[] args) {
 
 		int[] array1 = { 10, 20, 30, 40, 50 };
-		int[] array2 = array1;					// ÁÖ¼ÒÀÇ º¹»ç, °ªÀÇ º¹»ç X
+		int[] array2 = array1;					// ì£¼ì†Œì˜ ë³µì‚¬ì„ / ê°’ì˜ ë³µì‚¬ê°€ ì•„ë‹ˆë‹¤!
 		
 		array1[3] = 999;
 		
